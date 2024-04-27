@@ -1,0 +1,15 @@
+﻿  juegodecartas.cpp
+C:\Users\Usuario\Documents\Tareas UPC\Algoritmos\Taller\juegodecartas\juegodecartas\juegodecartas.cpp(32,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compiling source file '/juegodecartas.cpp')
+  
+C:\Users\Usuario\Documents\Tareas UPC\Algoritmos\Taller\juegodecartas\juegodecartas\juegodecartas.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/juegodecartas.cpp')
+  
+C:\Users\Usuario\Documents\Tareas UPC\Algoritmos\Taller\juegodecartas\juegodecartas\juegodecartas.cpp(90,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/juegodecartas.cpp')
+  
+C:\Users\Usuario\Documents\Tareas UPC\Algoritmos\Taller\juegodecartas\juegodecartas\juegodecartas.cpp(123,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/juegodecartas.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  juegodecartas.vcxproj -> C:\Users\Usuario\Documents\Tareas UPC\Algoritmos\Taller\juegodecartas\x64\Debug\juegodecartas.exe
